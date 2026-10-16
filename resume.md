@@ -7,9 +7,9 @@ permalink: /resume/
 # Segun Oladipo
 
 **Lead Security Engineer / Senior Manager, Information Security**
-United States | [LinkedIn](https://www.linkedin.com/in/segun-oladipo) | [GitHub](https://github.com/SO17213) | [Portfolio](https://so17213.github.io)
+United States · [LinkedIn](https://www.linkedin.com/in/segun-oladipo) · [GitHub](https://github.com/SO17213) · [Portfolio](https://so17213.github.io)
 
-Employer names are withheld on this public version. Full details are available on request.
+Full employment details are available on request.
 
 ## Summary
 
@@ -25,7 +25,7 @@ Security leader with 10+ years across detection engineering, incident response, 
 
 ## Experience
 
-### Lead Security Engineer / Senior Manager, Information Security - Healthcare organization (name withheld), 2022 - Present
+### Lead Security Engineer / Senior Manager, Information Security - Healthcare organization, 2022 - Present
 
 - Lead detection engineering, incident response, and security operations for a 24/7 environment
 - Incident commander for major incidents; run ransomware readiness and executive tabletop exercises
@@ -35,13 +35,13 @@ Security leader with 10+ years across detection engineering, incident response, 
 - Lead AI security governance assessments using the NIST AI Risk Management Framework
 - Conduct internal and external penetration tests and turn findings into new detections
 
-### Lead Security Engineer - Financial regulatory organization (name withheld), 2019 - 2022
+### Lead Security Engineer - Financial regulatory organization, 2019 - 2022
 
 - Led security engineering and operations, including SIEM content, incident response, and cloud security
 - Ran penetration tests and vulnerability assessments across on-premises and cloud systems
 - Improved detection coverage and mean time to detect through new log sources and use cases
 
-### Security Operations Center Analyst - National telecommunications provider (name withheld), 2018 - 2021
+### Security Operations Center Analyst - National telecommunications provider, 2018 - 2021
 
 - Triaged and investigated alerts across endpoint, network, and cloud sources
 - Escalation point for complex incidents; documented playbooks for recurring alert types

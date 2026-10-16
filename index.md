@@ -6,7 +6,8 @@ permalink: /
 
 # Segun Oladipo
 
-**Lead Security Engineer and Security Manager | United States**
+**Lead Security Engineer and Security Manager**
+United States
 
 Cybersecurity leader with 10+ years across detection engineering, incident response, cloud security, and security operations. I build and run programs that find attacks early and respond fast: detection engineering, 24/7 security operations, incident command, cloud security, and AI security. This portfolio shares that work in sanitized form: detection logic, threat hunts, forensic labs, red team exercises, playbooks, and automation. No employer or client information appears anywhere on this site.
 
