@@ -1,8 +1,13 @@
 ---
 layout: page
-title: "Automation"
+title: "Security Automation"
 permalink: /automation/
 ---
 
-This section covers key concepts and use cases in **Automation**.
-More content will be added soon.
+# Security Automation
+
+Automation that removes repetitive triage work and speeds response: SOAR workflows, scripting, and native platform integrations.
+
+## In this section
+
+- [Security automation overview](https://github.com/SO17213/so17213.github.io/blob/main/automation/README.md) - tools, workflows, and results

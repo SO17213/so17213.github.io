@@ -1,8 +1,13 @@
 ---
 layout: page
-title: "Security Operation Center"
+title: "Security Operations Center (SOC)"
 permalink: /security_operation_center/
 ---
 
-This section covers key concepts and use cases in **Security Operation Center**.
-More content will be added soon.
+# Security Operations Center (SOC)
+
+Running 24/7 security operations: coverage models, triage and escalation standards, metrics, and analyst development.
+
+## In this section
+
+- [SOC operations overview](https://github.com/SO17213/so17213.github.io/blob/main/security_operation_center/README.md) - responsibilities, tooling, and metrics

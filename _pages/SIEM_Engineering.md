@@ -1,8 +1,13 @@
 ---
 layout: page
-title: "Siem Engineering"
+title: "SIEM Engineering"
 permalink: /SIEM_Engineering/
 ---
 
-This section covers key concepts and use cases in **Siem Engineering**.
-More content will be added soon.
+# SIEM Engineering
+
+Log onboarding, parsing, and data joins that make investigations faster and detections more reliable.
+
+## In this section
+
+- [Windows user mapping for Okta investigations](https://github.com/SO17213/so17213.github.io/blob/main/SIEM_Engineering/okta_windows_user_mapping.md) - joining identity and endpoint data

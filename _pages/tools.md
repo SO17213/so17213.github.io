@@ -4,5 +4,10 @@ title: "Tools"
 permalink: /tools/
 ---
 
-This section covers key concepts and use cases in **Tools**.
-More content will be added soon.
+# Tools
+
+Scripts and utilities from lab and operational work.
+
+## In this section
+
+- [Intune device script (PowerShell)](https://github.com/SO17213/so17213.github.io/blob/main/tools/intune_disable_mcafee.ps1) - endpoint management automation
