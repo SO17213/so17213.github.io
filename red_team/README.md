@@ -6,5 +6,4 @@ This section includes offensive security lab exercises and simulations created i
 
 ## Included Labs
 
-- `rce_file_upload_lab.md` – Simulated file upload vulnerability leading to remote code execution
-- More labs coming soon (credential harvesting, lateral movement, privilege escalation)
+- `rce_file_upload_lab.md` - Simulated file upload vulnerability leading to remote code execution

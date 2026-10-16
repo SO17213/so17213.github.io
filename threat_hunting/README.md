@@ -32,7 +32,7 @@ This section includes practical examples and real-world hunts I've conducted, al
 **Hypothesis**: An attacker is trying to exploit MFA fatigue by repeatedly triggering push notifications.
 
 **Data Source**:  
-- Okta logs (via Splunk index: `vegokta`)  
+- Okta logs (via Splunk index: `okta`)  
 - Chronicle SecOps enriched with IP reputation
 
 **Indicators**:  
@@ -42,7 +42,7 @@ This section includes practical examples and real-world hunts I've conducted, al
 
 **SPL Example**:
 ```spl
-index=vegokta eventType="user.mfa.challenge.failed"
+index=okta eventType="user.mfa.challenge.failed"
 | stats count by user, client.geographicalContext.country, outcome.reason, ipAddress
 | where count > 5
 ```
@@ -92,7 +92,7 @@ Confirmed unauthorized login attempt from Russia using valid credentials; creden
 
 ---
 
-## 📂 Coming Soon
+## 📂 Hunt themes in rotation
 
 - DNS-based threat hunts
 - Hunts for unusual system processes on macOS via CrowdStrike telemetry
