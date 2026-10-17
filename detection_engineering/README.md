@@ -1,7 +1,3 @@
----
-description: "Detection engineering lifecycle, tuning discipline, and MITRE ATT&CK coverage, with a worked Okta MFA detection example."
----
-
 # Detection Engineering
 
 I run detection engineering as a lifecycle, not a pile of rules. Every detection has a reason to exist, an owner, a test history, and a measured false positive rate. Coverage spans identity, endpoint, cloud, and SaaS, and every rule maps to MITRE ATT&CK so gaps are visible and plannable instead of accidental.

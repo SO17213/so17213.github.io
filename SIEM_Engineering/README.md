@@ -1,7 +1,3 @@
----
-description: "SIEM engineering: log onboarding, parsing, normalization, and correlation that make investigations faster and more reliable."
----
-
 # SIEM Engineering
 
 Detections and investigations are only as good as the data underneath them. My SIEM engineering work is about making that data trustworthy: the right sources onboarded, fields parsed and normalized to a common schema, and correlation joins that hold up at 3 AM during an incident. Platforms include Splunk Cloud and Enterprise Security, Google SecOps (Chronicle), Microsoft Sentinel, QRadar, and CrowdStrike NG-SIEM.

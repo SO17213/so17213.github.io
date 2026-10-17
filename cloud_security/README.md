@@ -1,7 +1,3 @@
----
-description: "Cloud security monitoring across AWS, GCP, and Azure: GuardDuty and CloudTrail hunts, identity protections, and guardrails."
----
-
 # Cloud Security
 
 Cloud security work here centers on AWS, with the same discipline applied across GCP and Azure: log everything that matters, watch identity first, and put guardrails in place so common mistakes fail safe. The goal is early warning on the small set of cloud behaviors that precede real damage: credential theft, privilege escalation, public exposure, and data access from the wrong place.

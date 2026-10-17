@@ -1,7 +1,3 @@
----
-description: "Tools built by Segun Oladipo: endpoint scripting for Intune and Python automation for vulnerability management."
----
-
 # Tools
 
 I build small tools where manual work repeats. The test for building one is simple: the task happens often, the steps are known, and a script or automation makes it faster or more consistent than doing it by hand. Two examples are described here, one endpoint script and one automation that runs a program.

@@ -25,3 +25,49 @@ header_pages:
   - SIEM_Engineering/README.md
   - security_operation_center/README.md
   - tools/README.md
+
+defaults:
+  - scope:
+      path: "certifications"
+    values:
+      description: "Certifications held by Segun Oladipo across incident response, forensics, cloud security, and security operations."
+  - scope:
+      path: "detection_engineering"
+    values:
+      description: "Detection engineering lifecycle, tuning discipline, and MITRE ATT&CK coverage, with a worked Okta MFA detection example."
+  - scope:
+      path: "cloud_security"
+    values:
+      description: "Cloud security monitoring across AWS, GCP, and Azure: GuardDuty and CloudTrail hunts, identity protections, and guardrails."
+  - scope:
+      path: "SIEM_Engineering"
+    values:
+      description: "SIEM engineering: log onboarding, parsing, normalization, and correlation that make investigations faster and more reliable."
+  - scope:
+      path: "tools"
+    values:
+      description: "Tools built by Segun Oladipo: endpoint scripting for Intune and Python automation for vulnerability management."
+  - scope:
+      path: "threat_hunting"
+    values:
+      description: "Hypothesis driven threat hunting methodology, example hunts across Okta and AWS, tools used, and lessons learned."
+  - scope:
+      path: "automation"
+    values:
+      description: "Security automation examples with SOAR, Jira automation, and scripting that cut alert noise and manual triage work."
+  - scope:
+      path: "incident_response"
+    values:
+      description: "Incident response examples and method: triage, containment, eradication, recovery, and post incident lessons learned."
+  - scope:
+      path: "red_team"
+    values:
+      description: "Offensive security labs in controlled environments, showing attack techniques and the detections they produced."
+  - scope:
+      path: "forensics"
+    values:
+      description: "Forensic analysis walkthroughs with Volatility and Autopsy on lab and public data, supporting incident investigations."
+  - scope:
+      path: "security_operation_center"
+    values:
+      description: "How the security operations center runs around the clock: coverage, triage and escalation standards, tooling, metrics, and reporting."

@@ -1,7 +1,3 @@
----
-description: "Incident response examples and method: triage, containment, eradication, recovery, and post incident lessons learned."
----
-
 # Incident Response
 
 This section covers real-world examples, processes, and methodologies used during cybersecurity incidents. It highlights skills in triage, containment, eradication, recovery, and post-incident lessons learned.
