@@ -6,7 +6,7 @@ Below is a summary of my professional certifications across cybersecurity, cloud
 
 ## 🛡️ Cybersecurity & Incident Response
 
-- **GIAC Certified Forensic Examiner (GCFE)**, 2026  
+- **GIAC Certified Forensic Examiner (GCFE)**  
   Digital forensics across Windows artifacts, memory, and disk analysis
 
 - **GIAC Certified Incident Handler (GCIH)**  
