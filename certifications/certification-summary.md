@@ -31,6 +31,12 @@ Below is a summary of my professional certifications across cybersecurity, cloud
 - **AWS Certified Solutions Architect - Associate**  
   Architecture design with a strong emphasis on security, scalability, and resilience
 
+- **AWS Certified Cloud Practitioner**  
+  High-level overview of AWS services, pricing, and security best practices
+
+- **Microsoft Azure Fundamentals (AZ-900)**  
+  Introduction to Azure cloud services and basic security principles
+
 - **Microsoft SC-200: Security Operations Analyst Associate**  
   Demonstrates proficiency in threat hunting, incident response, and Microsoft security tools, including Sentinel and Defender
 
@@ -40,6 +46,18 @@ Below is a summary of my professional certifications across cybersecurity, cloud
 
 - **Splunk Certified Cybersecurity Defense Analyst**  
   Validates ability to build detections, investigate threats, and use Splunk ES
+
+---
+
+---
+
+## 🧠 Other Certifications
+
+- **Scrum Master Certified**  
+  Enables collaboration in agile environments, useful for security project leadership
+
+- **Tripwire Enterprise Foundation & Advanced Certification**  
+  Focused on file integrity monitoring and compliance automation
 
 ---
 
