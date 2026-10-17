@@ -1,3 +1,7 @@
+---
+description: "Hypothesis driven threat hunting methodology, example hunts across Okta and AWS, tools used, and lessons learned."
+---
+
 # Threat Hunting
 
 This section includes practical examples and real-world hunts I've conducted, along with methodology, hypotheses, and key findings. The goal is to proactively identify threats that evade traditional security controls by using log data, threat intel, and behavioral patterns.

@@ -2,6 +2,7 @@
 layout: page
 title: "Resume"
 permalink: /resume/
+description: "Resume of Segun Oladipo, lead security engineer and security manager focused on detection, response, cloud security, and AI security."
 ---
 
 # Segun Oladipo

@@ -1,3 +1,7 @@
+---
+description: "Security automation examples with SOAR, Jira automation, and scripting that cut alert noise and manual triage work."
+---
+
 # Security Automation
 
 This section outlines my experience building security automation to reduce manual workload, accelerate response, and improve detection fidelity using SOAR platforms, scripting, and native integrations.

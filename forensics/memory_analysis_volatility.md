@@ -57,7 +57,7 @@ volatility3 -f win10-memory.raw -p <PID> windows.dumpfiles.DumpFiles --dump-dir 
 | Finding             | Description                                                      |
 |---------------------|------------------------------------------------------------------|
 | Suspicious Process | svchost.exe in user directory, unusual parent-child behavior     |
-| Malicious IP       | *.*.*.* – known C2 infrastructure                           |
+| Malicious IP       | 92.255.57.58, known C2 infrastructure flagged on AbuseIPDB   |
 | Extracted Malware  | Confirmed AsyncRAT sample with remote access functionality       |
 
 ---

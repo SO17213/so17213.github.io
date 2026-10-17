@@ -1,3 +1,7 @@
+---
+description: "Certifications held by Segun Oladipo across incident response, forensics, cloud security, and security operations."
+---
+
 # Certifications
 
 Full certification summary: [certification-summary.md](certification-summary.md), also published at [so17213.github.io/certifications](https://so17213.github.io/certifications/).

@@ -2,6 +2,7 @@
 layout: default
 title: Cybersecurity Portfolio
 permalink: /
+description: "Portfolio of Segun Oladipo, a security leader covering detection engineering, incident response, cloud security, and AI security."
 ---
 
 # Segun Oladipo
@@ -75,6 +76,7 @@ Full list: [Certifications](https://so17213.github.io/certifications/)
 - [Windows user mapping for Okta investigations](https://so17213.github.io/SIEM_Engineering/okta_windows_user_mapping.html) - joining identity and endpoint data for investigations
 - [Memory forensics with Volatility](https://so17213.github.io/forensics/memory_analysis_volatility.html) - memory analysis of a compromised Windows system
 - [RCE file upload lab](https://so17213.github.io/red_team/rce_file_upload_lab.html) - attack simulation and the detections it produced
+- [Leading security programs](https://so17213.github.io/leadership/) - case study: rebuilding detection, response, automation, and access governance
 - [Threat hunting](https://so17213.github.io/threat_hunting/) - methodology, hypotheses, and hunt write-ups
 - [Incident response](https://so17213.github.io/incident_response/) - including ransomware containment and recovery
 - [Security automation](https://so17213.github.io/automation/) - SOAR and scripting that cut manual triage work
