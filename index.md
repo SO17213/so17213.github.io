@@ -30,7 +30,7 @@ Cybersecurity leader with 10+ years across detection engineering, incident respo
 - Detection engineering programs across cloud, endpoint, identity, and SaaS
 - Security operations with 24/7 coverage, escalation standards, and analyst development
 - Incident response and incident command, from triage through post-incident review
-- Cloud security across AWS, GCP, and Azure, including IAM and workload protection
+- Cloud security across AWS, OCI, GCP, and Azure, including IAM and workload protection
 - Identity and access governance, including access reviews and privileged access
 - Vulnerability management, from scanning to verified closure
 - AI security: governance assessments, guardrail design, and adversarial testing of LLM applications
@@ -45,7 +45,7 @@ Cybersecurity leader with 10+ years across detection engineering, incident respo
 | Detection Engineering | Splunk Cloud and ES, QRadar, CrowdStrike NG-SIEM, Google SecOps (Chronicle), Microsoft Sentinel, MITRE ATT&CK |
 | Incident Response | Incident command, ServiceNow, phishing triage, malware review, tabletop exercises |
 | SOC Operations | 24/7 coverage models, triage and escalation standards, case quality, SOC metrics, playbook development |
-| Cloud Security | AWS (IAM, S3, CloudTrail, GuardDuty, ECS), Azure (Defender, Sentinel, IAM), GCP (Cloud Logging, IAM, SCC) |
+| Cloud Security | AWS (IAM, S3, CloudTrail, GuardDuty, ECS), Azure (Defender, Sentinel, IAM), GCP (Cloud Logging, IAM, SCC), OCI (Audit, Cloud Guard, IAM) |
 | AI Security | NIST AI RMF, OWASP LLM Top 10, prompt injection testing, RAG data controls, model supply chain review |
 | Endpoint Security | CrowdStrike Falcon, Intune, Jamf, Windows and macOS artifacts |
 | Forensics | Volatility, Autopsy, disk and memory analysis (GIAC GCFE) |

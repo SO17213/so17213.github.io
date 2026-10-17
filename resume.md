@@ -64,7 +64,7 @@ GIAC GCFE (2026), GIAC GCIH, AWS Certified Security - Specialty, AWS Certified S
 ## Technical skills
 
 Detection and SIEM: Splunk, Microsoft Sentinel, Google SecOps (Chronicle), QRadar, CrowdStrike NG-SIEM, KQL, Sigma
-Cloud: AWS, GCP, Azure, IAM, GuardDuty, Security Command Center
+Cloud: AWS, OCI, GCP, Azure, IAM, GuardDuty, Cloud Guard, Security Command Center
 Endpoint and identity: CrowdStrike Falcon, Microsoft Defender, Okta, CyberArk, Intune, Jamf
 Offensive and forensics: penetration testing, Volatility, Autopsy, MITRE ATT&CK
 Automation: Python, Bash, PowerShell, SOAR workflows

@@ -38,7 +38,7 @@ defaults:
   - scope:
       path: "cloud_security"
     values:
-      description: "Cloud security monitoring across AWS, GCP, and Azure: GuardDuty and CloudTrail hunts, identity protections, and guardrails."
+      description: "Cloud security monitoring across AWS, OCI, GCP, and Azure: GuardDuty and CloudTrail hunts, OCI Audit and Cloud Guard, identity protections, and guardrails."
   - scope:
       path: "SIEM_Engineering"
     values:

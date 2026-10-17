@@ -1,12 +1,12 @@
 # Cloud Security
 
-Cloud security work here centers on AWS, with the same discipline applied across GCP and Azure: log everything that matters, watch identity first, and put guardrails in place so common mistakes fail safe. The goal is early warning on the small set of cloud behaviors that precede real damage: credential theft, privilege escalation, public exposure, and data access from the wrong place.
+Cloud security work here centers on AWS and Oracle Cloud Infrastructure (OCI), with the same discipline applied across GCP and Azure: log everything that matters, watch identity first, and put guardrails in place so common mistakes fail safe. The goal is early warning on the small set of cloud behaviors that precede real damage: credential theft, privilege escalation, public exposure, and data access from the wrong place.
 
 ---
 
 ## Monitoring Model
 
-AWS telemetry comes from CloudTrail for API activity, GuardDuty for managed threat findings, and VPC Flow Logs for network context, all centralized in Splunk for correlation with identity and endpoint data. GCP work uses Cloud Logging and Security Command Center, and Azure uses Defender and Sentinel. Findings are not triaged in isolation: a GuardDuty alert gets checked against CloudTrail history, the identity that acted, and what the affected resource was doing before the alert fired.
+AWS telemetry comes from CloudTrail for API activity, GuardDuty for managed threat findings, and VPC Flow Logs for network context, all centralized in Splunk for correlation with identity and endpoint data. GCP work uses Cloud Logging and Security Command Center, and Azure uses Defender and Sentinel. OCI work runs on Audit logs for API activity and Cloud Guard for managed findings, with tenancy and compartment context carried into every investigation so activity is judged against the principal and the tenancy it acted in. Findings are not triaged in isolation: a GuardDuty alert gets checked against CloudTrail history, the identity that acted, and what the affected resource was doing before the alert fired.
 
 ---
 
@@ -15,6 +15,12 @@ AWS telemetry comes from CloudTrail for API activity, GuardDuty for managed thre
 - [AWS GuardDuty threat hunt](aws_guardduty_hunt.md): triage of an instance credential exfiltration finding, from the GuardDuty alert through CloudTrail pivots and VPC Flow Log checks to a confirmed outcome, with the fixes that followed
 
 The hunt shows the pattern I use for cloud findings: confirm the finding, reconstruct the API trail, check network context, then decide malicious, misconfigured, or expected.
+
+---
+
+## OCI Threat Hunts
+
+On OCI, hunts start from Audit and Cloud Guard telemetry and work the same discipline as the AWS hunt below: reconstruct the activity, then separate malicious behavior from expected service account, patching, scanning, and engineering activity. Recurring detections, such as interactive shell activity, suspected malicious tooling, and Cloud Guard findings, get documented root cause and end in tuning, a new detection, or a confirmed escalation.
 
 ---
 
