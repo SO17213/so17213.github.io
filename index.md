@@ -70,14 +70,18 @@ Full list: [Certifications](https://so17213.github.io/certifications/)
 
 ## Featured work
 
-- [Okta MFA bypass detection](https://github.com/SO17213/so17213.github.io/blob/main/detection_engineering/okta_mfa_bypass_detection.md) - detection logic for token and session abuse
-- [AWS GuardDuty threat hunt](https://github.com/SO17213/so17213.github.io/blob/main/cloud_security/aws_guardduty_hunt.md) - hypothesis driven hunt across GuardDuty findings
-- [Windows user mapping for Okta investigations](https://github.com/SO17213/so17213.github.io/blob/main/SIEM_Engineering/okta_windows_user_mapping.md) - joining identity and endpoint data for investigations
-- [Memory forensics with Volatility](https://github.com/SO17213/so17213.github.io/blob/main/forensics/memory_analysis_volatility.md) - memory analysis of a compromised Windows system
-- [RCE file upload lab](https://github.com/SO17213/so17213.github.io/blob/main/red_team/rce_file_upload_lab.md) - attack simulation and the detections it produced
-- [Threat hunting](https://github.com/SO17213/so17213.github.io/blob/main/threat_hunting/README.md) - methodology, hypotheses, and hunt write-ups
-- [Incident response](https://github.com/SO17213/so17213.github.io/blob/main/incident_response/README.md) - including ransomware containment and recovery
-- [Security automation](https://github.com/SO17213/so17213.github.io/blob/main/automation/README.md) - SOAR and scripting that cut manual triage work
+- [Okta MFA bypass detection](https://so17213.github.io/detection_engineering/okta_mfa_bypass_detection.html) - detection logic for token and session abuse
+- [AWS GuardDuty threat hunt](https://so17213.github.io/cloud_security/aws_guardduty_hunt.html) - hypothesis driven hunt across GuardDuty findings
+- [Windows user mapping for Okta investigations](https://so17213.github.io/SIEM_Engineering/okta_windows_user_mapping.html) - joining identity and endpoint data for investigations
+- [Memory forensics with Volatility](https://so17213.github.io/forensics/memory_analysis_volatility.html) - memory analysis of a compromised Windows system
+- [RCE file upload lab](https://so17213.github.io/red_team/rce_file_upload_lab.html) - attack simulation and the detections it produced
+- [Threat hunting](https://so17213.github.io/threat_hunting/) - methodology, hypotheses, and hunt write-ups
+- [Incident response](https://so17213.github.io/incident_response/) - including ransomware containment and recovery
+- [Security automation](https://so17213.github.io/automation/) - SOAR and scripting that cut manual triage work
+
+## Browse by section
+
+[Detection Engineering](https://so17213.github.io/detection_engineering/) · [Threat Hunting](https://so17213.github.io/threat_hunting/) · [Security Automation](https://so17213.github.io/automation/) · [Incident Response](https://so17213.github.io/incident_response/) · [Red Team](https://so17213.github.io/red_team/) · [Forensics](https://so17213.github.io/forensics/) · [Cloud Security](https://so17213.github.io/cloud_security/) · [SIEM Engineering](https://so17213.github.io/SIEM_Engineering/) · [Security Operations Center](https://so17213.github.io/security_operation_center/) · [Tools](https://so17213.github.io/tools/) · [Certifications](https://so17213.github.io/certifications/)
 
 ---
 

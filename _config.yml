@@ -1,26 +1,26 @@
-title: SO17213
-description: "Cybersecurity Consulting Portfolio – Segun O"
+title: Segun Oladipo
+description: "Cybersecurity portfolio of Segun Oladipo: detection engineering, incident response, cloud security, and AI security leadership, with sanitized write-ups, labs, and automation."
 url: "https://so17213.github.io"
 baseurl: ""
-author: "Segun O"
+author: "Segun Oladipo"
 
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
-# Define main navigation links
-navbar-links:
-  Certifications: "certifications"
-  Detection Engineering: "detection_engineering"
-  Threat Hunting: "threat_hunting"
-  Security Automation: "automation"
-  Incident Response: "incident_response"
-  Red Team: "red_team"
-  Forensics: "forensics"
-  Cloud Security: "cloud_security"
-  SIEM Engineering: "SIEM_Engineering"
-  Security Operations Center (SOC): "security_operation_center"
-  Tools: "tools"
-
-# Force GitHub Pages to rebuild
+header_pages:
+  - index.md
+  - resume.md
+  - certifications/README.md
+  - detection_engineering/README.md
+  - threat_hunting/README.md
+  - automation/README.md
+  - incident_response/README.md
+  - red_team/README.md
+  - forensics/README.md
+  - cloud_security/README.md
+  - SIEM_Engineering/README.md
+  - security_operation_center/README.md
+  - tools/README.md

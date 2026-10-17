@@ -9,7 +9,6 @@ This section contains hands-on forensic analysis walk-throughs using publicly av
 | Report                               | Description                                      |
 |--------------------------------------|--------------------------------------------------|
 | `memory_analysis_volatility.md`     | Memory analysis of a Windows system using Volatility |
-| `mac_artifacts_autopsy.md`          | Examining macOS user activity and login artifacts with Autopsy (coming soon) |
 
 ---
 

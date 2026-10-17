@@ -6,8 +6,8 @@ Below is a summary of my professional certifications across cybersecurity, cloud
 
 ## 🛡️ Cybersecurity & Incident Response
 
-- **GIAC Certified Forensic Analyst (GCFA)**  
-  Focused on deep digital forensics including memory, disk, and incident reconstruction
+- **GIAC Certified Forensic Examiner (GCFE)**, 2026  
+  Digital forensics across Windows artifacts, memory, and disk analysis
 
 - **GIAC Certified Incident Handler (GCIH)**  
   Demonstrates the ability to detect, respond to, and resolve security incidents
@@ -25,20 +25,14 @@ Below is a summary of my professional certifications across cybersecurity, cloud
 
 ## ☁️ Cloud Certifications
 
-- **AWS Certified Security – Specialty**  
+- **AWS Certified Security - Specialty**  
   Advanced knowledge of securing workloads and data in AWS environments
 
-- **AWS Certified Solutions Architect – Associate**  
+- **AWS Certified Solutions Architect - Associate**  
   Architecture design with a strong emphasis on security, scalability, and resilience
 
-- **AWS Certified Cloud Practitioner**  
-  High-level overview of AWS services, pricing, and security best practices
-
-- **Microsoft Azure Fundamentals (AZ-900)**  
-  Introduction to Azure cloud services and basic security principles
-
-- **Microsoft SC-200: Security Operations Analyst Associate**
-  Demonstrates proficiency in threat hunting, incident response, and Microsoft security tools
+- **Microsoft SC-200: Security Operations Analyst Associate**  
+  Demonstrates proficiency in threat hunting, incident response, and Microsoft security tools, including Sentinel and Defender
 
 ---
 
@@ -49,14 +43,4 @@ Below is a summary of my professional certifications across cybersecurity, cloud
 
 ---
 
-## 🧠 Other Certifications
-
-- **Scrum Master Certified**  
-  Enables collaboration in agile environments — useful for security project leadership
-
-- **Tripwire Enterprise Foundation & Advanced Certification**   
-  Focused on file integrity monitoring and compliance automation
----
-
 > If you'd like to verify a certification or learn more about how these map to your needs, feel free to reach out.
-
