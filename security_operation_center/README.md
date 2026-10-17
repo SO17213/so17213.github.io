@@ -1,3 +1,7 @@
+---
+description: "How the security operations center runs around the clock: coverage, triage and escalation standards, tooling, metrics, and reporting."
+---
+
 # Security Operations Center (SOC)
 
 I lead 24/7 security operations: coverage models, triage and escalation standards, detection quality, analyst development, and reporting to leadership. This section shows the operational detail the program runs on, including workflows, tooling, metrics, and real escalations.
